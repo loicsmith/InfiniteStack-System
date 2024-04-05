@@ -17,7 +17,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Fonctionnalités 
 
-- Modifier la quantité stackable d'un item
+- Modifier la quantité stackable d'un item (ajouter/modifier/supprimer une règle)
   
 - ## Commandes
 

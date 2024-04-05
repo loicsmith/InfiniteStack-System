@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/yA0uupE.png" width="300"/>
+<img src="https://i.imgur.com/iS7tN7F.png" width="300"/>
 
 # PLUGIN InfiniteStack System
 

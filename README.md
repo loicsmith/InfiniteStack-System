@@ -21,4 +21,4 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
   
 - ## Commandes
 
-/stack (ou touche AAMenu, catégorie interaction): permet d'ouvrir le menu.
+/stack (ou touche AAMenu, catégorie Administration): permet d'ouvrir le menu.

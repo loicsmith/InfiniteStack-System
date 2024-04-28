@@ -19,6 +19,6 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 - Modifier la quantité stackable d'un item (ajouter/modifier/supprimer une règle)
   
-- ## Commandes
+## Commandes
 
 /stack (ou touche AAMenu, catégorie Administration): permet d'ouvrir le menu.
